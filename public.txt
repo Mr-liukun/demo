@@ -1,2 +1,6 @@
 asd
+<<<<<<< HEAD
 aaa
+=======
+zxc
+>>>>>>> 50927edd0af10ddbba95fab7e56c21632df4b406
