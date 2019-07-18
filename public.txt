@@ -1,2 +1,6 @@
 public
+<<<<<<< HEAD
 qwe
+=======
+asd
+>>>>>>> b7f1825c210148e70bd4e336283eafd2f0641d9e
