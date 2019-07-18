@@ -1,17 +1,1 @@
-github上加的
-qwe
-也是github加的
-git加
-789
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-git
-=======
-
-github假假假假
->>>>>>> 48dcac2c98b3cc2c8246141dfba88f332624c530
-=======
-
-github假假假假
->>>>>>> 48dcac2c98b3cc2c8246141dfba88f332624c530
+github
